@@ -2,7 +2,8 @@
 
 # CerveWeb #
 
-Sitio web orientado a la comercializacion de cervezas artesanales por medio de pedidos y delivery de las mismas.
+Website oriented to the commercialization of craft beers through orders and delivery initiated by registered customers.
+Sitio web orientado a la comercializacion de cervezas artesanales por medio de pedidos y delivery iniciados por clientes registrados.
 
 ## Love Life, Love Birra ##
 

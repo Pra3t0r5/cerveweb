@@ -1,3 +1,5 @@
+![splash](https://github.com/Pra3t0r5/cerveweb/blob/master/splash.png?raw=true)
+
 # CerveWeb #
 
 Sitio web orientado a la comercializacion de cervezas artesanales por medio de pedidos y delivery de las mismas.
@@ -8,7 +10,7 @@ Sitio web orientado a la comercializacion de cervezas artesanales por medio de p
   * [Portfolio](http://falbertengo.com.ar)
   * [Webmaster](https://webmaster.cerveweb@gmail.com)
   * [Email](https://fernando.albertengo@gmail.com)
-* **Platform:** Flask
+* **Stack:** Flask - SqlAlchemy/Marshmallow - MySQL
 * **Version:** 0.9.0 (June 2020)
 * **License:** [MIT](LICENSE)
 

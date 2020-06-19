@@ -11,6 +11,7 @@ Sitio web orientado a la comercializacion de cervezas artesanales por medio de p
   * [Portfolio](http://falbertengo.com.ar)
   * [Webmaster](https://webmaster.cerveweb@gmail.com)
   * [Email](https://fernando.albertengo@gmail.com)
+* **Platform:** Web
 * **Stack:** Flask - SqlAlchemy/Marshmallow - MySQL
 * **Version:** 0.9.0 (June 2020)
 * **License:** [MIT](LICENSE)
